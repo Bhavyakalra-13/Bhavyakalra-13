@@ -8,7 +8,7 @@
 
 ## I'm Student, Web Developer, and a Game Developer !
 - 🔭 I’m currently working on a [Project][website_Projects]!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Sleep and play Games
 
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 <br />
 <br />
-<img align="left" alt="Bhavyakalra-13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bhavyakalra-13&show_icons=true&hide_border=true" />
+<img align="left" alt="Bhavyakalra-13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bhavyakalra-13&show_icons=true&theme=radical" />
 
 <br><br><br><br><br><br><br><br><br>
 
